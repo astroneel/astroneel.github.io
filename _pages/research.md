@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-##### **PACE: Prototypical Adaptive Contrastive Embeddings**
+##### *Yu C., Hillier D. Modha N., Liu X. Y.*, **PACE: Prototypical Adaptive Contrastive Embeddings**
 *Deep Learning and Vision (CS701) with [Prof. Sun Qianru](https://qianrusun.com/)*
 
 * Insert
