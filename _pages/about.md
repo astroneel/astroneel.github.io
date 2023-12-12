@@ -8,9 +8,7 @@ profile:
   align: right
   image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Me during my </p>
-    <p>first visit to Korea!</p>
+  more_info: 
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
