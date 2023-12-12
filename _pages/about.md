@@ -6,12 +6,11 @@ subtitle: A business-turned-CS enthusiast.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Currently pursuing a</p>
-    <p>Master of IT in Business</p>
-    <p>at Singapore Management University</p>
+    <p>Me during my </p>
+    <p>first visit to Korea!</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -19,8 +18,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Test Insert. Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a Senior Data Analyst at [Amazon Web Services](https://aws.amazon.com/)- based in Singapore, supporting the Sales Cycle Acceleration team's data needs across APJ. I am also a part-time [Master of IT in Business student at Singapore Management University](https://www.smu.edu.sg/), specializing in AI. My research interests lie in the intersection between AI, Systems and Human-Computer Interaction, where I hope to discover how we can make deploy AI systems more seamlessly, and how to design AI applications that are less of a black-box for end-users.   
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Beyond work and studies, I am passionate about skills-based volunteering, and have worked extensively with non-profits as part of [Bridges for Enterprise](https://www.bridgesforenterprise.com) and [Thrive Social Consulting](https://thrivesocialsg.com/), where we help them solve varying challenges through software products and consulting engagements respectively. I did my undergraduate in Business Management at SMU, where I realized only in my third year, that I had a deep interest in Computer Science - hence the continued efforts to pivot into this wonderful domain.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Feel free to reach out if you are interested in my work, finding out more about my journey in pivoting to CS, or collaborating on technical projects!

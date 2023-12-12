@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: technical projects I have worked on as part of coursework, volunteering and co-curricular activities.
-nav: true
+nav: false
 nav_order: 2
 display_categories: [work, fun]
 horizontal: false
